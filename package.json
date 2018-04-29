@@ -1,0 +1,47 @@
+{
+  "author": {
+    "name": "Philip Skinner",
+    "email": "me@philip-skinner.co.uk",
+    "url": "https://github.com/PhilipSkinner"
+  },
+  "bin": {
+    "cwddrive": "./bin/cwddrive.js",
+    "makerunnable": "./bin/makerunnable.js"
+  },
+  "bugs": {
+    "url": "https://github.com/PhilipSkinner/windows/issues"
+  },
+  "dependencies": {
+    "jasmine": "^3.1.0"
+  },
+  "deprecated": false,
+  "description": "A collection of utilities for Windows for Node.js",
+  "devDependencies": {
+    "jasmine" : "3.1.0"
+  },
+  "homepage": "https://github.com/PhilipSkinner/windows",
+  "main": "index.js",
+  "name": "windows",
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Benvie/node-Windows.git"
+  },
+  "scripts" :{
+    "test" : "jasmine"
+  },
+  "tags": [
+    "Windows",
+    "win32",
+    "registry",
+    "regedit",
+    "cmd",
+    "fonts",
+    "utility",
+    "os",
+    "platform",
+    "drive alias",
+    "windows sdk"
+  ],
+  "version": "0.1.0"
+}
