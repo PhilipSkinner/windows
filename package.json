@@ -25,7 +25,7 @@
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/Benvie/node-Windows.git"
+    "url": "git@github.com:PhilipSkinner/windows.git"
   },
   "scripts" :{
     "test" : "jasmine"
@@ -43,5 +43,5 @@
     "drive alias",
     "windows sdk"
   ],
-  "version": "0.1.0"
+  "version": "0.0.7"
 }
