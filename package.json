@@ -14,6 +14,7 @@
   "dependencies": {
     "jasmine": "^3.1.0"
   },
+  "license" : "MIT",
   "deprecated": false,
   "description": "A collection of utilities for Windows for Node.js",
   "devDependencies": {
@@ -43,5 +44,5 @@
     "drive alias",
     "windows sdk"
   ],
-  "version": "0.0.9"
+  "version": "0.1.0"
 }
