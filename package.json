@@ -18,7 +18,7 @@
   "deprecated": false,
   "description": "A collection of utilities for Windows for Node.js",
   "devDependencies": {
-    "jasmine" : "3.1.0"
+    "jasmine" : "3.6.1"
   },
   "homepage": "https://github.com/PhilipSkinner/windows",
   "main": "index.js",
